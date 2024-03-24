@@ -165,7 +165,7 @@ footer{
     }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 850px) {
     /* tablet */
     .presentation {
         margin: 4%;
