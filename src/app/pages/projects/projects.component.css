@@ -60,4 +60,9 @@
       padding-left: 20px;
       text-align: justify;
   }
+
+  .project_information_description{
+    text-align: center;
+    width: 400px;
+  }
 }

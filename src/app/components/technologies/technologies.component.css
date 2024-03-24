@@ -19,3 +19,16 @@
   padding-bottom: 5px;
   color: #ffffff;
 }
+
+@media (max-width: 850px){
+  .technologies{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .technologies__items > ul> li>  img {
+    width: 30px;
+    height: 30px;
+  }
+}
